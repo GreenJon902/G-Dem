@@ -1,0 +1,165 @@
+Stealing
+No items may be stolen unless both the stealer and the stealee are [LINK]pa system|LINK|Aggressive[/LINK] or has one of these requirements:
+	The item has lore on it (excluding [LINK]g-coin|LINK|G-Coin, G-Coin's derivatives[/LINK], and heads).
+	The item has an illegal enchant.
+	It was a head and was just dropped by a killed player.
+If the item is currently in a shop or is being traded then it may not be stolen, no matter what.
+
+If two players are [LINK]pa system|LINK|Aggressive[/LINK] then they can [LINK]griefing|LINK|mine valuable blocks[/LINK] from each other bases.
+
+Trading with other peoples villagers or using their farms counts as stealing!
+
+---
+Griefing
+Generally go by the rule do not grief, you may grief under these circumstances:
+	You fix any and all blocks broken.
+	You and the person being griefed are [LINK]pa system|LINK|Aggressive[/LINK] and you are taking valuables blocks.
+	The block you griefed will return to its original state (wheat, carrots, etc).
+
+If you want to gather resources or build something then make sure you are at least 200 blocks away from anyone's bases / builds or 500 blocks away from Mega Bases (message GreenJon to request your base to become a Mega Base).
+
+Modifications to builds at spawn must improve their looks.
+
+Note: If water or explosives (or anything else) breaks blocks because of you then that is also you grieifing it!
+Note: Griefs must be fixed within the hour unless there is an acceptable reason why it will take longer.
+
+Note: Minor pranks are allowed but they must be fixed by the perpetrator if requested by the victim.
+
+---
+Farms
+To help the economy and to stop players getting too op, there are some restrictions on large farms:
+	There can up to 3 of the same type of large farm on the server.
+	You have limited amount of large farm slots.
+		You start with 2,
+		You get a second at 5 million ticks,
+		You get a fourth at 10 million ticks,
+		You get a fifth at 20 million ticks.
+
+		Members of a [LINK]teams|LINK|Team[/LINK] get 3 extra large farm slots which need to be built at their team base.
+
+Large farms consist of anything that creates or converts resources and are semi/fully automated, or unautomated but quite large.
+To request to build a farm, send a message in [HYPERLINK]https://discord.com/channels/877558776906006559/882941809905528892|HYPERLINK|the farms request chat[/HYPERLINK].
+
+Examples of large farms:
+	Iron Golem farm that spawns and kills the golems.
+	Carrot farm that automatically kills golems.
+	A super smelter where the furnaces are connected.
+	A concrete blaster.
+	A large tunnel bore.
+
+Exceptions to the large farm rule:
+	Storage systems and villager breeders / traders do not count as large farms!
+
+Note: If you claim a farm but do not build it / finish it then it may be given to someone else on short notice!
+Note: Three players with a farm may not work together to prohibit resources for others or to raise the price.
+Note: Raid farms are not allowed!
+Note: Warden farms are not allowed!
+
+---
+Spawn
+Spawn is where the majority of shops are situated and is where new players spawn.
+Builds at spawn [LINK]griefing|LINK|do not own any land around them[/LINK] unless you show that the land is owned, preferably do this with signs as that is most clear.
+If you do not finish your build then it may be given to other players.
+You also may not claim a large area at spawn and not do much too it!
+
+---
+G-Coin
+The servers official currency is in G-Coin.
+It is not required that your shops utilise G-Coin but we recommend it!
+
+G-Coin can be obtained via other players or by doing jobs.
+You can find the current jobs in [HYPERLINK]https://discord.com/channels/877558776906006559/981167010090209301|HYPERLINK|the job listings chat[/HYPERLINK], they will tell you how to get the g-coin, the amount, expiration date, etc. There will also be a thread attached to the message for anything that requires submitting.
+
+---
+Seed
+Using, having, or distributing the seed is not allowed!
+
+If you would like to find something then please use a location request.
+You start with two location requests but get 1 for every 5 million ticks you pass!
+You can use a location request by sending a message in [HYPERLINK]https://discord.com/channels/877558776906006559/878598701122191370|HYPERLINK|the location request chat[/HYPERLINK].
+
+---
+Contracts
+If an agreement is made in chat that all parties agree too and acknowledge that it is a chat contract then whatever the content is must be adhered to!
+
+Examples:
+	If CrayonCroissant says in chat "I will not harm BBH" and Ajballistic agrees and they both say its a chat contract then CrayonCroissant cannot harm BBH until all parties release them from that!
+	If Omegadestroy400 says in chat "If you give me resources, I will finish the ice boat race" to GreenJon but does not say that its a chat contract then Omegadestroy400 does not have to do anything!
+
+Note: Take a screenshot of all chat contracts and include the agreeing of all parties so that you have proof in case of a breach of contract.
+
+---
+Modifications
+The general rule of thumb with modifications is nothing that will create an unfair advantage or break / get around another rule!
+
+Examples (Not Exhaustive):
+	Not Allowed:
+		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK].
+	Allowed:
+		Hotkeys, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher.
+
+If you don't know then please consult GreenJon!
+
+---
+Game Exploits
+You may not use game exploits for anything except for Rail, Carpet and TNT duplicating.
+
+Examples:
+	RinPlauge used bedrock patterns to find diamonds, this is exploiting game generation.
+	OllieBlitzz used zombie death glitches to duplicate wooden swords, this is exploiting game bugs.
+	GreenJon made a rail shop with rail duplicators which CrayonCroissant thought was illegal, CrayonCroissant was wrong because rail duplicators are allowed.
+	ThatGuyJules made a tree farm with TNT duplicator, this is allowed as TNT Duplicating is not illegal.
+
+Note: Mob switches are not allowed
+
+---
+Obtaining Non-Survival Items
+Some items cannot be obtained in survival but are sill useful / cool to have, because of this there are some methods to get certain items:
+	Spawn eggs can be obtained for a Netherite Ingot. (You may not put spawn eggs in spawners)
+	Occasionally events will be ran with the prize of putting lore on an item of your choice.
+	Items may also be lore if it would make sense to do so.
+
+Note: These items may be [LINK]stealing|LINK|stolen[/LINK], even if you are [LINK]pa system|LINK|Passive[/LINK]
+
+---
+Teams
+Teams are groups of players who work together, teams can also form alliances with other teams.
+Teams are limited to 4 players!
+Teams get 3 extra [LINK]farms|LINK|large farm[/LINK] slots to be built at the teams mega base!
+
+To protect base coordinates and to protect against someone running off with a bunch of valuable stuff, an agreement has to be reached when a player wants to leave the team! The team cannot stop the player from leaving but they can request items back, cords to not be leaked, etc. If a decision cannot the reached then an owner can help create a fair decision!
+To create / join a team, send a message in [HYPERLINK]https://discord.com/channels/877558776906006559/882941609442951208|HYPERLINK|the team join or create chat[/HYPERLINK].
+
+Note: The [LINK]pa system|LINK|PA Status[/LINK] of the team is defined by the leader of that team.
+
+---
+Homes, Warps and TPAs
+The server has methods of quickly traveling around, for example there are warps to get to important parts of the server like spawn or the enderman farm!
+
+There are also have homes, players each get two homes! You may not set a home at someone else's base without their permission.
+
+You can also teleport to people with the TPA command.
+Note: If someone dies and looses their stuff because you intentionally teleported them into an unsafe area without informing them beforehand then that counts as [LINK]stealing|LINK|stealing[/LINK].
+Examples of TPAs:
+	OllieBlitzz wants to give Omegadestroy400 something but Omegadestroy400 is over a lava lake so tells OllieBlitzz and then sends a TPA here request, OllieBlitzz then falls in the void and tries to sue Omegadestroy400 and fails as it was OllieBlitzz's fault.
+	Jackaboi1 dislikes GreenJon so TPAs GreenJon into the void, GreenJon dies and looses all their stuff. Jackaboi1 was banned!
+
+---
+PA System
+To allow more anarchist players to get along with more peaceful people, there is the Passive & Aggressive System.
+By default all players are Passive, this means they can't [LINK]stealing|LINK|steal[/LINK] (with some exceptions).
+In the rules & info discord chat, you can react to the message to become aggressive, this means you can [LINK]stealing|LINK|steal[/LINK] items from other players who are also aggressive!
+
+If a player is un-whitelisted then they count as aggressive.
+
+Note: Passive players can still be killed.
+Note: A [LINK]teams|LINK|Teams[/LINK]'s base's PA Status is the owner of the [LINK]teams|LINK|Teams[/LINK]'s PA Status.
+
+---
+Important stuff to know
+Our aim on the G-Dem SMP is to ensure fairness for all players, but to protect against malicious players we will punish for anything that we deem a loop hole! We also need to be able to contact you so because of that, players must be in the discord and must reply to a staff member within a reasonable amount of time!
+
+You may also not assist someone in their punishment, they break the rules so they need to make it right!
+
+Certain builds are owned by the server, this includes:
+	Pr1, Pr2, Court, The Spawn Beacons, The Torture Stations, The End Farm, Forever Road and More Forever Road
