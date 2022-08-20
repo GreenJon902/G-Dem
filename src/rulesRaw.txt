@@ -9,6 +9,14 @@ If two players are [LINK]pa system|LINK|Aggressive[/LINK] then they can [LINK]gr
 
 Trading with other peoples villagers or using their farms counts as stealing!
 
+Examples:
+	Omegadestroy400 kills KingCrimson714 (who was Passive), AJBallistic then picks up the stuff and doesn't give it back, this is stealing.
+	OllieBlitzz took 33 gunpowder from Pr1, this is stealing as Pr1 is server property.
+	GreenJon took Jackaboi1's horse that Jackaboi1 gave Diamond Armour, this is stealing of the armour as it was put in Jackaboi1's horse's inventory.
+	AJBallistic took UltraHalo's dolphin, this is not stealing as mobs can be stolen and had nothing in its inventory.
+	Ollieblitzz stole a Netherite Ingot from Omegadestroy400 (who was passive), this is stealing.
+	PersonA stole from PersonB's shop (both were aggressive), this is stealing as shops can't be stolen from.
+
 ---
 Griefing
 Generally go by the rule do not grief, you may grief under these circumstances:
