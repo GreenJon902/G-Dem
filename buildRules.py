@@ -1,7 +1,7 @@
-rulesRaw = open("rulesRaw.txt", "r").read()
+rulesRaw = open("src/rulesRaw.txt", "r").read()
 rulesRaw = rulesRaw.rstrip("\n")
-open("rules.html", "w").write("")
-rulesHtml = open("rules.html", "a")
+open("out/rules.html", "w").write("")
+rulesHtml = open("out/rules.html", "a")
 
 rulesHtml.write("""
 <!DOCTYPE html>
