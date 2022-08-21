@@ -108,9 +108,14 @@ Examples (Not Exhaustive):
 
 If you don't know then please consult GreenJon!
 
+Examples:
+	Ve3loc1ty logged on with a hacked client, they did not use any hacks but this still counts as an illegal modification.
+	Ve3loc1ty then used fly at spawn, it did not harm anyone but this is still illegal.
+	Jackaboi1 logged on with a minimap that let them see the cave layout, this counts as xray.
+
 ---
 Game Exploits
-You may not use game exploits for anything except for Rail, Carpet and TNT duplicating.
+You may not use game exploits for anything except for Bedrock breaking, Rail and Carpet and TNT duplicating.
 
 Examples:
 	RinPlauge used bedrock patterns to find diamonds, this is exploiting game generation.
