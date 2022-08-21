@@ -78,6 +78,8 @@ It is not required that your shops utilise G-Coin but we recommend it!
 G-Coin can be obtained via other players or by doing jobs.
 You can find the current jobs in [HYPERLINK]https://discord.com/channels/877558776906006559/981167010090209301|HYPERLINK|the job listings chat[/HYPERLINK], they will tell you how to get the g-coin, the amount, expiration date, etc. There will also be a thread attached to the message for anything that requires submitting.
 
+For players who would like to make texture packs for G-Coin, the [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|item information list[/HYPERLINK] is [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|here[/HYPERLINK]!
+
 ---
 Seed
 Using, having, or distributing the seed is not allowed!
