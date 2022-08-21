@@ -113,7 +113,7 @@ If you don't know then please consult GreenJon!
 Examples:
 	Ve3loc1ty logged on with a hacked client, they did not use any hacks but this still counts as an illegal modification.
 	Ve3loc1ty then used fly at spawn, it did not harm anyone but this is still illegal.
-	Jackaboi1 logged on with a minimap that let them see the cave layout, this counts as xray.
+	Jackaboi1 logged on with a minimap that let them see the cave layout, this counts as xray as they could see what's on the other side of walls.
 
 ---
 Game Exploits
