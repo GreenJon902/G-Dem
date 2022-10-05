@@ -28,12 +28,18 @@ If you want to gather resources or build something then make sure you are at lea
 
 Modifications to builds at spawn must improve their looks.
 
+Animals that are required for a farm to work (excluding the animals that are outputted by breeders) are part of that farm, killing them would count as griefing.
+
 Note: If water or explosives (or anything else) breaks blocks because of you then that is also you grieifing it!
 Note: Griefs must be fixed within the hour unless there is an acceptable reason why it will take longer.
 
 Note: Minor pranks are allowed but they must be fixed by the perpetrator if requested by the victim.
 
+Examples:
 	Ajballistic killed the dogs that were in GreenJon's breeder but there were still enough to breed new ones, this is not griefing.
+	PersonA killed all of the sheep inside of PersonB's wool farm, this is griefing.
+	PersonC killed every single cow inside of PersonD's cow breeder, this is griefing as there aren't enough to respawn them.
+
 ---
 Farms
 To help the economy and to stop players getting too op, there are some restrictions on large farms:
@@ -48,6 +54,8 @@ To help the economy and to stop players getting too op, there are some restricti
 
 Large farms consist of anything that creates or converts resources and are semi/fully automated, or unautomated but quite large.
 To request to build a farm, send a message in [HYPERLINK]https://discord.com/channels/877558776906006559/882941809905528892|HYPERLINK|the farms request chat[/HYPERLINK].
+
+Players may not use someone else's large farm without the owner permission.
 
 Examples of large farms:
 	Iron Golem farm that spawns and kills the golems.
@@ -92,6 +100,9 @@ You can use a location request by sending a message in [HYPERLINK]https://discor
 ---
 Contracts
 If an agreement is made in chat that all parties agree too and acknowledge that it is a chat contract then whatever the content is must be adhered to!
+Book contracts must also be adhered to if signed by all parties. (acknowledgement of contract is not required)
+
+Contracts that did not have a date specified will expire after a month
 
 Examples:
 	If CrayonCroissant says in chat "I will not harm BBH" and Ajballistic agrees and they both say its a chat contract then CrayonCroissant cannot harm BBH until all parties release them from that!
@@ -105,7 +116,7 @@ The general rule of thumb with modifications is nothing that will create an unfa
 
 Examples (Not Exhaustive):
 	Not Allowed:
-		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK].
+		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK], Potion effect dapeners / removers.
 	Allowed:
 		Hotkeys, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher.
 
@@ -170,6 +181,10 @@ If a player is un-whitelisted then they count as aggressive.
 
 Note: Passive players can still be killed.
 Note: A [LINK]teams|LINK|Teams[/LINK]'s base's PA Status is the owner of the [LINK]teams|LINK|Teams[/LINK]'s PA Status.
+
+---
+Miscellaneous
+Pets can be killed ([LINK]griefing|LINK|unless they are required for a farm to work[/LINK])
 
 ---
 Important stuff to know
