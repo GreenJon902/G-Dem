@@ -55,6 +55,8 @@ To help the economy and to stop players getting too op, there are some restricti
 Large farms consist of anything that creates or converts resources and are semi/fully automated, or unautomated but quite large.
 To request to build a farm, send a message in [HYPERLINK]https://discord.com/channels/877558776906006559/882941809905528892|HYPERLINK|the farms request chat[/HYPERLINK].
 
+Players may not use someone else's large farm without the owner permission.
+
 Examples of large farms:
 	Iron Golem farm that spawns and kills the golems.
 	Carrot farm that automatically kills golems.
@@ -98,7 +100,7 @@ You can use a location request by sending a message in [HYPERLINK]https://discor
 ---
 Contracts
 If an agreement is made in chat that all parties agree too and acknowledge that it is a chat contract then whatever the content is must be adhered to!
-Book contracts must also be adhered to
+Book contracts must also be adhered to if signed by all parties. (acknowledgement of contract is not required)
 
 Contracts that did not have a date specified will expire after a month
 
