@@ -145,7 +145,7 @@ Some items cannot be obtained in survival but are sill useful / cool to have, be
 	Spawn eggs can be obtained for a Netherite Ingot. (You may not put spawn eggs in spawners)
 	Occasionally events will be ran with the prize of putting lore on an item of your choice.
 	Items may also be lore if it would make sense to do so.
-	Illegal maps and banners cannot be duplicated.
+	Unobtainable maps and banners cannot be duplicated.
 
 Note: These items may be [LINK]stealing|LINK|stolen[/LINK], even if you are [LINK]pa system|LINK|Passive[/LINK]
 
