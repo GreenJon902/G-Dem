@@ -48,7 +48,6 @@ Examples:
 	PersonA killed all of the sheep inside of PersonB's wool farm, this is griefing.
 	PersonC killed every single cow inside of PersonD's cow breeder, this is griefing as there aren't enough to respawn them.
 
-
 ---
 Spawn
 Spawn is where the majority of shops are situated and is where new players spawn.
