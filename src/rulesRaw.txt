@@ -93,7 +93,7 @@ The general rule of thumb with modifications is nothing that will create an unfa
 
 Examples (Not Exhaustive):
 	Not Allowed:
-		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK], Potion effect dapeners / removers.
+		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK], Potion effect dampeners / removers.
 	Allowed:
 		Hotkeys, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher.
 
@@ -139,7 +139,7 @@ Note: The [LINK]pa system|LINK|PA Status[/LINK] of the team is defined by the le
 
 ---
 Homes, Warps and TPAs
-The server has methods of quickly traveling around, for example there are warps to get to important parts of the server like spawn or the enderman farm!
+The server has methods of quickly travelling around, for example there are warps to get to important parts of the server like spawn or the enderman farm!
 
 There are also have homes, players each get two homes! You may not set a home at someone else's base without their permission.
 
