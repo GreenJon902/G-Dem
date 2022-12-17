@@ -22,55 +22,30 @@ Griefing
 Generally go by the rule do not grief, you may grief under these circumstances:
 	You fix any and all blocks broken.
 	You and the person being griefed are [LINK]pa system|LINK|Aggressive[/LINK] and you are taking valuables blocks.
-	The block you griefed will return to its original state (wheat, carrots, etc).
 
 If you want to gather resources or build something then make sure you are at least 200 blocks away from anyone's bases / builds or 500 blocks away from Mega Bases (message GreenJon to request your base to become a Mega Base).
 
 Modifications to builds at spawn must improve their looks.
 
-Animals that are required for a farm to work (excluding the animals that are outputted by breeders) are part of that farm, killing them would count as griefing.
-
-Note: If water or explosives (or anything else) breaks blocks because of you then that is also you grieifing it!
+Note: If water or explosives (or anything else) breaks blocks because of you then that is also you griefing it!
 Note: Griefs must be fixed within the hour unless there is an acceptable reason why it will take longer.
 
 Note: Minor pranks are allowed but they must be fixed by the perpetrator if requested by the victim.
+
+---
+Farms
+You may not use someone else's farms without the owners permission. This includes removing items from chests, picking up items, and harvesting growing blocks.
+
+Killing animals that a required for a farm to work (excluding the last 2 animals in breeders) is counted as griefing!
+
+Note: Raid farms and mob switches are not allowed.
+Note: Should a farm cause a lot of lag, the owner will be asked to fix or remove it.
 
 Examples:
 	Ajballistic killed the dogs that were in GreenJon's breeder but there were still enough to breed new ones, this is not griefing.
 	PersonA killed all of the sheep inside of PersonB's wool farm, this is griefing.
 	PersonC killed every single cow inside of PersonD's cow breeder, this is griefing as there aren't enough to respawn them.
 
----
-Farms
-To help the economy and to stop players getting too op, there are some restrictions on large farms:
-	There can up to 3 of the same type of large farm on the server.
-	You have limited amount of large farm slots.
-		You start with 2,
-		You get a second at 5 million ticks,
-		You get a fourth at 10 million ticks,
-		You get a fifth at 20 million ticks.
-
-		Members of a [LINK]teams|LINK|Team[/LINK] get 3 extra large farm slots which need to be built at their team base.
-
-Large farms consist of anything that creates or converts resources and are semi/fully automated, or unautomated but quite large.
-To request to build a farm, send a message in [HYPERLINK]https://discord.com/channels/877558776906006559/882941809905528892|HYPERLINK|the farms request chat[/HYPERLINK].
-
-Players may not use someone else's large farm without the owner permission.
-
-Examples of large farms:
-	Iron Golem farm that spawns and kills the golems.
-	Carrot farm that automatically kills golems.
-	A super smelter where the furnaces are connected.
-	A concrete blaster.
-	A large tunnel bore.
-
-Exceptions to the large farm rule:
-	Storage systems and villager breeders / traders do not count as large farms!
-
-Note: If you claim a farm but do not build it / finish it then it may be given to someone else on short notice!
-Note: Three players with a farm may not work together to prohibit resources for others or to raise the price.
-Note: Raid farms are not allowed!
-Note: Warden farms are not allowed!
 
 ---
 Spawn
