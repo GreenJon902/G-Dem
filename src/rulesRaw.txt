@@ -32,11 +32,13 @@ Note: Griefs must be fixed within the hour unless there is an acceptable reason 
 
 Note: Minor pranks are allowed but they must be fixed by the perpetrator if requested by the victim.
 
+See [LINK]farms|LINK|the farms section[/LINK] for information for extra rules on farm griefing.
+
 ---
 Farms
 You may not use someone else's farms without the owners permission. This includes removing items from chests, picking up items, and harvesting growing blocks.
 
-Killing animals that a required for a farm to work (excluding the last 2 animals in breeders) is counted as griefing!
+Killing animals that are required for a farm to work (excluding the last 2 animals in breeders) is counted as griefing!
 
 Note: Raid farms and mob switches are not allowed.
 Note: Should a farm cause a lot of lag, the owner will be asked to fix or remove it.
