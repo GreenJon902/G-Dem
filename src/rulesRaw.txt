@@ -55,6 +55,8 @@ Builds at spawn [LINK]griefing|LINK|do not own any land around them[/LINK] unles
 If you do not finish your build then it may be given to other players.
 You also may not claim a large area at spawn and not do much too it!
 
+The spawn beacons require a 3x3 hole which is on every 100 blocks, please make sure your builds take this into account as the beacons may go through them.
+
 ---
 G-Coin
 The servers official currency is in G-Coin.
