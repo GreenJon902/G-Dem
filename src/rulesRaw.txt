@@ -68,8 +68,8 @@ You can find the current jobs in [HYPERLINK]https://discord.com/channels/8775587
 For players who would like to make texture packs for G-Coin, the [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|item information list[/HYPERLINK] is [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|here[/HYPERLINK]!
 
 ---
-Seed
-Using, having, or distributing the seed is not allowed!
+Seed: [INSERT SEED HERE]
+Do not use the seed for X-ray perposes.
 
 If you would like to find something then please use a location request.
 You start with two location requests but get 1 for every 5 million ticks you pass!
