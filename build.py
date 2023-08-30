@@ -8,7 +8,8 @@ toCopy = (
 import shutil
 import os
 
-shutil.rmtree("out")
+if os.path.exists("out"):
+    shutil.rmtree("out")
 os.makedirs("out")
 
 
