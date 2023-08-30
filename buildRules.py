@@ -12,7 +12,7 @@ rulesHtml.write("""
     <style>
       html {
         size: 100%, 100%;
-        background-image: url(nav_bg.png);
+        background-color: #111;
       }
 
       body {
