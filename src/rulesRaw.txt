@@ -66,9 +66,10 @@ You can find the current jobs in Job Listings chat in discord, they will tell yo
 For players who would like to make texture packs for G-Coin, the [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|item information list[/HYPERLINK] is [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|here[/HYPERLINK]!
 
 ---
-Seed: [INSERT SEED HERE]
-Do not use the seed for X-ray perposes.
+Seed
+The seed is [INSERT SEED HERE].
 
+Do not use the seed for X-ray perposes.
 If you would like to find something then you can also ask an admin.
 
 ---
