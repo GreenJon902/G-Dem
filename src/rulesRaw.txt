@@ -1,7 +1,7 @@
 Stealing
 No items may be stolen unless both the stealer and the stealee are [LINK]pa system|LINK|Aggressive[/LINK] or has one of these requirements:
 	The item has lore on it (excluding [LINK]g-coin|LINK|G-Coin, G-Coin's derivatives[/LINK], and heads).
-	The item has an illegal enchant.
+	The item has an non-survival enchant.
 	It was a head and was just dropped by a killed player.
 If the item is currently in a shop or is being traded then it may not be stolen, no matter what.
 
@@ -23,9 +23,7 @@ Generally go by the rule do not grief, you may grief under these circumstances:
 	You fix any and all blocks broken.
 	You and the person being griefed are [LINK]pa system|LINK|Aggressive[/LINK] and you are taking valuables blocks.
 
-If you want to gather resources or build something then make sure you are at least 100 blocks away from anyone's bases / builds or 500 blocks away from Mega Bases (look either on dynmaps or in the discord forum to see a list).
-
-Modifications to builds at spawn must improve their looks.
+If you want to gather resources or build something then make sure you are not close to someones base, you also may not be inside of any of the base rings.
 
 Note: If water or explosives (or anything else) breaks blocks because of you then that is also you griefing it!
 Note: Griefs must be fixed within the hour unless there is an acceptable reason why it will take longer.
@@ -63,7 +61,7 @@ The servers official currency is in G-Coin.
 It is not required that your shops utilise G-Coin but we recommend it!
 
 G-Coin can be obtained via other players or by doing jobs.
-You can find the current jobs in [HYPERLINK]https://discord.com/channels/877558776906006559/981167010090209301|HYPERLINK|the job listings chat[/HYPERLINK], they will tell you how to get the g-coin, the amount, expiration date, etc. There will also be a thread attached to the message for anything that requires submitting.
+You can find the current jobs in Job Listings chat in discord, they will tell you how to get the g-coin, the amount, expiration date, etc. There will also be a thread attached to the message for anything that requires submitting.
 
 For players who would like to make texture packs for G-Coin, the [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|item information list[/HYPERLINK] is [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|here[/HYPERLINK]!
 
@@ -71,9 +69,7 @@ For players who would like to make texture packs for G-Coin, the [HYPERLINK]http
 Seed: [INSERT SEED HERE]
 Do not use the seed for X-ray perposes.
 
-If you would like to find something then please use a location request.
-You start with two location requests but get 1 for every 5 million ticks you pass!
-You can use a location request by sending a message in [HYPERLINK]https://discord.com/channels/877558776906006559/878598701122191370|HYPERLINK|the location request chat[/HYPERLINK].
+If you would like to find something then you can also ask an admin.
 
 ---
 Contracts
@@ -96,7 +92,7 @@ Examples (Not Exhaustive):
 	Not Allowed:
 		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK], Potion effect dampeners / removers.
 	Allowed:
-		Hotkeys, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher.
+		Hotkeys, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher, Litematica (Not easy place mode).
 
 If you don't know then please consult GreenJon!
 
@@ -107,7 +103,7 @@ Examples:
 
 ---
 Game Exploits
-You may not use game exploits for anything except for Bedrock breaking, Rail and Carpet and TNT duplicating.
+You may not use game exploits for anything except for Bedrock breaking (and derivatives, e.g. end portal breaking), Rail and Carpet and TNT duplicating.
 
 Examples:
 	RinPlauge used bedrock patterns to find diamonds, this is exploiting game generation.
@@ -126,17 +122,6 @@ Some items cannot be obtained in survival but are sill useful / cool to have, be
 	Unobtainable maps and banners cannot be duplicated.
 
 Note: These items may be [LINK]stealing|LINK|stolen[/LINK], even if you are [LINK]pa system|LINK|Passive[/LINK]
-
----
-Teams
-Teams are groups of players who work together, teams can also form alliances with other teams.
-Teams are limited to 4 players!
-Teams get 3 extra [LINK]farms|LINK|large farm[/LINK] slots to be built at the teams mega base!
-
-To protect base coordinates and to protect against someone running off with a bunch of valuable stuff, an agreement has to be reached when a player wants to leave the team! The team cannot stop the player from leaving but they can request items back, cords to not be leaked, etc. If a decision cannot the reached then an owner can help create a fair decision!
-To create / join a team, send a message in [HYPERLINK]https://discord.com/channels/877558776906006559/882941609442951208|HYPERLINK|the team join or create chat[/HYPERLINK].
-
-Note: The [LINK]pa system|LINK|PA Status[/LINK] of the team is defined by the leader of that team.
 
 ---
 Homes, Warps and TPAs
@@ -163,16 +148,16 @@ Note: A [LINK]teams|LINK|Teams[/LINK]'s base's PA Status is the owner of the [LI
 
 ---
 Miscellaneous
-Pets can be killed ([LINK]griefing|LINK|unless they are required for a farm to work[/LINK])
-
----
-Important stuff to know
 Our aim on the G-Dem SMP is to ensure fairness for all server members, but to protect against malicious players we will punish for anything that we deem a loop hole! We also need to be able to contact you so because of that, players must be in the discord and must reply to a staff member within a reasonable amount of time!
 We will also punish players who are on purposely annoying / irritating or in any other way, being a nuisance!
 
 No lying to owners about staff matters!
 
+Pets can be killed ([LINK]griefing|LINK|unless they are required for a farm to work[/LINK])
+
 You may also not assist someone in their punishment, they break the rules so they need to make it right!
+
+If you want a prefex to your name, make or join a team. If you want to leave a team, an aggreement must be reached by you and the team leader. Team bases' [LINK]PA status|LINK|PA System[/LINK] is the same as the team leaders status.
 
 Certain builds are owned by the server, this includes:
 	Punishment Road 1 (PR1), Punishment Road 2 (PR2), Court, The Spawn Beacons, The Torture Stations, The End Farm (EF), Forever Road (FR) and Greater Forever Road (GFR)
