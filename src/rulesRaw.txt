@@ -1,164 +1,72 @@
 Stealing
-No items may be stolen unless both the stealer and the stealee are [LINK]pa system|LINK|Aggressive[/LINK] or has one of these requirements:
-	The item has lore on it (excluding [LINK]g-coin|LINK|G-Coin, G-Coin's derivatives[/LINK], and heads).
-	The item has an non-survival enchant.
-	It was a head and was just dropped by a killed player.
-If the item is currently in a shop or is being traded then it may not be stolen, no matter what.
+No stealing unless both parties are [LINK]aggressive|LINK|aggressive[/LINK]aggressive or the items in question have lore tags (except g-coin), have impossible enchantments, or are dropped heads from someone who’s just died. Items in shops or trades cannot be stolen. 
 
-If two players are [LINK]pa system|LINK|Aggressive[/LINK] then they can [LINK]griefing|LINK|mine valuable blocks[/LINK] from each other bases.
-
-Trading with other peoples villagers or using their farms counts as stealing!
-
-Examples:
-	Omegadestroy400 kills KingCrimson714 (who was Passive), AJBallistic then picks up the stuff and doesn't give it back, this is stealing.
-	OllieBlitzz took 33 gunpowder from Pr1, this is stealing as Pr1 is server property.
-	GreenJon took Jackaboi1's horse that Jackaboi1 gave Diamond Armour, this is stealing of the armour as it was put in Jackaboi1's horse's inventory.
-	AJBallistic took UltraHalo's dolphin, this is not stealing as mobs can be stolen and had nothing in its inventory.
-	Ollieblitzz stole a Netherite Ingot from Omegadestroy400 (who was passive), this is stealing.
-	PersonA stole from PersonB's shop (both were aggressive), this is stealing as shops can't be stolen from.
+Trading with other people's villagers or using their farms also counts as stealing! 
 
 ---
 Griefing
-Generally go by the rule do not grief, you may grief under these circumstances:
-	You fix any and all blocks broken.
-	You and the person being griefed are [LINK]pa system|LINK|Aggressive[/LINK] and you are taking valuables blocks.
+You may not grief someone's build. Any modifications must be fixed within a timely manner.  
+However, pranks are allowed, given you fix it if asked. 
 
-If you want to gather resources or build something then make sure you are not close to someones base, you also may not be inside of any of the base rings.
-
-Note: If water or explosives (or anything else) breaks blocks because of you then that is also you griefing it!
-Note: Griefs must be fixed within the hour unless there is an acceptable reason why it will take longer.
-
-Note: Minor pranks are allowed but they must be fixed by the perpetrator if requested by the victim.
-
-See [LINK]farms|LINK|the farms section[/LINK] for information for extra rules on farm griefing.
+Dynmaps can show the locations of people’s bases. The base rings cannot be built inside of. 
 
 ---
 Farms
-You may not use someone else's farms without the owners permission. This includes removing items from chests, picking up items, and harvesting growing blocks.
+Don't use other peoples’ farms without permission. 
 
-Killing animals that are required for a farm to work (excluding the last 2 animals in breeders) is counted as griefing!
+Killing animals in a farm is considered griefing. 
 
-Note: Raid farms and mob switches are not allowed.
-Note: Should a farm cause a lot of lag, the owner will be asked to fix or remove it.
-
-Examples:
-	Ajballistic killed the dogs that were in GreenJon's breeder but there were still enough to breed new ones, this is not griefing.
-	PersonA killed all of the sheep inside of PersonB's wool farm, this is griefing.
-	PersonC killed every single cow inside of PersonD's cow breeder, this is griefing as there aren't enough to respawn them.
+Raid farms, warden farms, and mob switches are not allowed. 
 
 ---
 Spawn
-Spawn is where the majority of shops are situated and is where new players spawn.
-Builds at spawn [LINK]griefing|LINK|do not own any land around them[/LINK] unless you show that the land is owned, preferably do this with signs as that is most clear.
-If you do not finish your build then it may be given to other players.
-You also may not claim a large area at spawn and not do much too it!
+Builds at spawn will not own land around them unless marked or clearly decorated.  
+Unfinished builds may be given to other players after a long period of inactivity. 
 
-The spawn beacons require a 3x3 hole which is on every 100 blocks, please make sure your builds take this into account as the beacons may go through them.
-
----
-G-Coin
-The servers official currency is in G-Coin.
-It is not required that your shops utilise G-Coin but we recommend it!
-
-G-Coin can be obtained via other players or by doing jobs.
-You can find the current jobs in Job Listings chat in discord, they will tell you how to get the g-coin, the amount, expiration date, etc. There will also be a thread attached to the message for anything that requires submitting.
-
-For players who would like to make texture packs for G-Coin, the [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|item information list[/HYPERLINK] is [HYPERLINK]https://github.com/GreenJon902/G-Coin/blob/master/README.md#item-information|HYPERLINK|here[/HYPERLINK]!
-
----
-Seed
-The seed is [INSERT SEED HERE].
-
-Do not use the seed for X-ray perposes.
-If you would like to find something then you can also ask an admin.
+Spawn beacons need a 3x3 hole every 100 blocks; take this into account. 
 
 ---
 Contracts
-If an agreement is made in chat that all parties agree too and acknowledge that it is a chat contract then whatever the content is must be adhered to!
-Book contracts must also be adhered to if signed by all parties. (acknowledgement of contract is not required)
+Agreements are binding until the conditions are met. To be valid, both parties must acknowledge and screenshot the in-game chat messages. 
 
-Contracts that did not have a date specified will expire after a month
-
-Examples:
-	If CrayonCroissant says in chat "I will not harm BBH" and Ajballistic agrees and they both say its a chat contract then CrayonCroissant cannot harm BBH until all parties release them from that!
-	If Omegadestroy400 says in chat "If you give me resources, I will finish the ice boat race" to GreenJon but does not say that its a chat contract then Omegadestroy400 does not have to do anything!
-
-Note: Take a screenshot of all chat contracts and include the agreeing of all parties so that you have proof in case of a breach of contract.
+If no conditions are given, it expires after one month. 
 
 ---
-Modifications
-The general rule of thumb with modifications is nothing that will create an unfair advantage or break / get around another rule!
+Modifications & Game Exploits
+Here is a list of examples of modifications and game exploits, this is not a complete list so if you are unsure, please message an owner. 
 
-Examples (Not Exhaustive):
-	Not Allowed:
-		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK], Potion effect dampeners / removers.
-	Allowed:
-		Hotkeys, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher, Litematica (Not easy place mode).
+Modification Examples (Not Exhaustive): 
+	Not Allowed: 
+		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK], Potion effect dampeners / removers, Lava fog modifiers. 
 
-If you don't know then please consult GreenJon!
+	Allowed: 
+		Hotkeys, Sodium, Optifine, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher, Litematica (Not easy place mode), World Maps (unless they have an entity or cave map). 
 
-Examples:
-	Ve3loc1ty logged on with a hacked client, they did not use any hacks but this still counts as an illegal modification.
-	Ve3loc1ty then used fly at spawn, it did not harm anyone but this is still illegal.
-	Jackaboi1 logged on with a minimap that let them see the cave layout, this counts as xray as they could see what's on the other side of walls.
+Allowed Game Exploits: 
+	Bedrock breaking (and its derivatives, (but no griefing)), Rail and Carpet and TNT duplicating. 
 
----
-Game Exploits
-You may not use game exploits for anything except for Bedrock breaking (and derivatives, e.g. end portal breaking), Rail and Carpet and TNT duplicating.
-
-Examples:
-	RinPlauge used bedrock patterns to find diamonds, this is exploiting game generation.
-	OllieBlitzz used zombie death glitches to duplicate wooden swords, this is exploiting game bugs.
-	GreenJon made a rail shop with rail duplicators which CrayonCroissant thought was illegal, CrayonCroissant was wrong because rail duplicators are allowed.
-	ThatGuyJules made a tree farm with TNT duplicator, this is allowed as TNT Duplicating is not illegal.
-
-Note: Mob switches are not allowed
-
----
-Obtaining Non-Survival Items
-Some items cannot be obtained in survival but are sill useful / cool to have, because of this there are some methods to get certain items:
-	Spawn eggs can be obtained for a Netherite Ingot. (You may not put spawn eggs in spawners)
-	Occasionally events will be ran with the prize of putting lore on an item of your choice.
-	Items may also be lore if it would make sense to do so.
-	Unobtainable maps and banners cannot be duplicated.
-
-Note: These items may be [LINK]stealing|LINK|stolen[/LINK], even if you are [LINK]pa system|LINK|Passive[/LINK]
-
----
-Homes, Warps and TPAs
-The server has methods of quickly travelling around, for example there are warps to get to important parts of the server like spawn or the enderman farm!
-
-There are also have homes, players each get two homes! You may not set a home at someone else's base without their permission.
-
-You can also teleport to people with the TPA command.
-Note: If someone dies and looses their stuff because you intentionally teleported them into an unsafe area without informing them beforehand then that counts as [LINK]stealing|LINK|stealing[/LINK].
-Examples of TPAs:
-	OllieBlitzz wants to give Omegadestroy400 something but Omegadestroy400 is over a lava lake so tells OllieBlitzz and then sends a TPA here request, OllieBlitzz then falls in the void and tries to sue Omegadestroy400 and fails as it was OllieBlitzz's fault.
-	Jackaboi1 dislikes GreenJon so TPAs GreenJon into the void, GreenJon dies and looses all their stuff. Jackaboi1 was banned!
+Mob switches (and warden farms) are not allowed.
+Chunk loaders are allowed when required for a farm, and your account needed for a different part of that same farm.
 
 ---
 PA System
-To allow more anarchist players to get along with more peaceful people, there is the Passive & Aggressive System.
-By default all players are Passive, this means they can't [LINK]stealing|LINK|steal[/LINK] (with some exceptions).
-In the rules & info discord chat, you can react to the message to become aggressive, this means you can [LINK]stealing|LINK|steal[/LINK] items from other players who are also aggressive!
+There is a Passive & Aggressive System. 
+By default, all players are Passive, this means they can't [LINK]stealing|LINK|steal[/LINK] (with some exceptions). 
 
-If a player is un-whitelisted then they count as aggressive.
+In the rules & info discord chat, you can react to the message to become aggressive, this means you can [LINK]stealing|LINK|steal[/LINK] items from other players who are also aggressive!  
+This means you can also mine valuable blocks from other aggressive people’s bases. 
+If a player is un-whitelisted and has not joined in a year, then they count as aggressive, ask an owner for this information. 
 
-Note: Passive players can still be killed.
-Note: A [LINK]teams|LINK|Teams[/LINK]'s base's PA Status is the owner of the [LINK]teams|LINK|Teams[/LINK]'s PA Status.
+Note: Passive players can still be killed. 
+Note: A [LINK]teams|LINK|Teams[/LINK]'s base's PA Status is the owner of the [LINK]teams|LINK|Teams[/LINK]'s PA Status. 
 
 ---
 Miscellaneous
-Our aim on the G-Dem SMP is to ensure fairness for all server members, but to protect against malicious players we will punish for anything that we deem a loop hole! We also need to be able to contact you so because of that, players must be in the discord and must reply to a staff member within a reasonable amount of time!
-We will also punish players who are on purposely annoying / irritating or in any other way, being a nuisance!
+No loopholes, 
+No nuisance, 
+No nonsense (lying to staff about staff matters). 
 
-No lying to owners about staff matters!
-
-Pets can be killed ([LINK]griefing|LINK|unless they are required for a farm to work[/LINK])
-
-You may also not assist someone in their punishment, they break the rules so they need to make it right!
-
-If you want a prefex to your name, make or join a team. If you want to leave a team, an aggreement must be reached by you and the team leader. Team bases' [LINK]PA status|LINK|PA System[/LINK] is the same as the team leaders status.
-
-Certain builds are owned by the server, this includes:
-	Punishment Road 1 (PR1), Punishment Road 2 (PR2), Court, The Spawn Beacons, The Torture Stations, The End Farm (EF), Forever Road (FR) and Greater Forever Road (GFR)
+Pet can be killed, given it does not break a farm rule.
+You may not assist someone in their punishment. 
+Talk to an owner about name prefixes and teams. 
+No placing homes at other people's bases (without permission). 
