@@ -174,7 +174,9 @@ rulesHtml.close()
 
 
 # Beutify it
-import lxml.etree as etree, html
+import lxml.etree as etree
 
-x = html.fromstring(open(out, "r").read())
+parser = etree.HTMLParser()
+x = etree.parse(open(out, "r").read(), parser)
+
 open(out_, "w").write(etree.tostring(x, pretty_print=True))
