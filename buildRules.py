@@ -1,7 +1,10 @@
-rulesRaw = open("src/rulesRaw.txt", "r").read()
+in_ = "src/rulesRaw.txt"
+out = "out/rules.html"
+
+rulesRaw = open(in_, "r").read()
 rulesRaw = rulesRaw.rstrip("\n")
-open("out/rules.html", "w").write("")
-rulesHtml = open("out/rules.html", "a")
+open(out, "w").write("")
+rulesHtml = open(out, "a")
 
 rulesHtml.write("""
 <!DOCTYPE html>
@@ -168,3 +171,10 @@ rulesHtml.write("""
   </script>
 </html>""")
 rulesHtml.close()
+
+
+# Beutify it
+import lxml.etree as etree
+
+x = etree.parse(out)
+open(out_, "w").write(etree.tostring(x, pretty_print=True))
