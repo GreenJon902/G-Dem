@@ -171,12 +171,3 @@ rulesHtml.write("""
   </script>
 </html>""")
 rulesHtml.close()
-
-
-# Beutify it
-import lxml.etree as etree
-
-parser = etree.HTMLParser()
-x = etree.parse(open(out, "r"), parser)
-
-open(out, "wb").write(etree.tostring(x.getroot(), pretty_print=True, method="html"))
