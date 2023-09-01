@@ -179,4 +179,4 @@ import lxml.etree as etree
 parser = etree.HTMLParser()
 x = etree.parse(open(out, "r"), parser)
 
-open(out, "w").write(etree.tostring(x.getroot(), pretty_print=True, method="html"))
+open(out, "w").write(str(etree.tostring(x.getroot(), pretty_print=True, method="html")))
