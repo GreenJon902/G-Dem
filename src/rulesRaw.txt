@@ -58,6 +58,7 @@ This means you can also mine valuable blocks from other aggressive people’s ba
 If a player is un-whitelisted and has not joined in a year, then they count as aggressive, ask an owner for this information. 
 
 Note: Passive players can still be killed. 
+Note: You must wait at least a week before switching between passive and aggressive. 
 Note: A [LINK]teams|LINK|Teams[/LINK]'s base's PA Status is the owner of the [LINK]teams|LINK|Teams[/LINK]'s PA Status. 
 
 ---
