@@ -12,6 +12,7 @@ rulesHtml.write("""
   <head>
     <meta charset="utf-8">
     <title>G-Dem SMP Rules & Info</title>
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
     <style>
       html {
         size: 100%, 100%;
