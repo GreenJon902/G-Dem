@@ -74,3 +74,4 @@ Pet can be killed, given it does not break a farm rule.
 You may not assist someone in their punishment. 
 Talk to a GT Legal Services about getting name prefixes and joining teams. 
 No placing homes at other people's bases (without permission). 
+No putting spawn eggs in spawners.
