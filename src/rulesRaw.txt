@@ -40,7 +40,7 @@ Here is a list of examples of modifications and game exploits, this is not a com
 
 Modification Examples (Not Exhaustive): 
 	Not Allowed: 
-		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, [LINK]seed|LINK|Seed Breakers[/LINK], Potion effect dampeners / removers, Lava fog modifiers. 
+		Xray, Autoclickers (You can hold down a key, just no repeated clicking), Killaura, Potion effect dampeners / removers, Lava fog modifiers. 
 
 	Allowed: 
 		Hotkeys, Sodium, Optifine, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher, Litematica (Not easy place mode), World Maps (unless they have an entity or cave map). 
@@ -50,6 +50,12 @@ Allowed Game Exploits:
 
 Mob switches (and warden farms) are not allowed.
 Chunk loaders are allowed when required for a farm, and your account needed for a different part of that same farm.
+
+---
+Seed
+The seed is 8433187205649952434.
+
+Do not use the seed for X-ray purposes or locating other poeple's bases.
 
 ---
 PA System
