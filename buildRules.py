@@ -1,7 +1,10 @@
-rulesRaw = open("src/rulesRaw.txt", "r").read()
+in_ = "src/rulesRaw.txt"
+out = "out/rules.html"
+
+rulesRaw = open(in_, "r").read()
 rulesRaw = rulesRaw.rstrip("\n")
-open("out/rules.html", "w").write("")
-rulesHtml = open("out/rules.html", "a")
+open(out, "w").write("")
+rulesHtml = open(out, "a")
 
 rulesHtml.write("""
 <!DOCTYPE html>
@@ -9,6 +12,7 @@ rulesHtml.write("""
   <head>
     <meta charset="utf-8">
     <title>G-Dem SMP Rules & Info</title>
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
     <style>
       html {
         size: 100%, 100%;
