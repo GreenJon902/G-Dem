@@ -30,7 +30,7 @@ Spawn beacons need a 3x3 hole every 100 blocks; take this into account.
 
 ---
 Contracts
-Agreements are binding until the conditions are met. To be valid, both parties must acknowledge and screenshot the in-game chat messages. 
+Agreements are binding until the conditions are met. To be valid, both parties must acknowledge that it's a chat agreeement and then screenshot the in-game chat messages. 
 
 If no conditions are given, it expires after one month. 
 
