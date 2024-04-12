@@ -19,7 +19,7 @@ Don't use other peoples’ farms without permission.
 
 Killing animals in a farm is considered griefing. 
 
-Raid farms, warden farms, and mob switches are not allowed. 
+Raid farms, warden farms, and global mob-switches are not allowed (local ones are fine though). 
 
 ---
 Spawn
