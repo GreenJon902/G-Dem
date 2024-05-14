@@ -46,7 +46,7 @@ Modification Examples (Not Exhaustive):
 		Hotkeys, Sodium, Optifine, Freelook, Waypoints, Replay Mod (for recording, not base finding), Chestplate and Elytra switcher, Litematica (Not easy place mode), World Maps (unless they have an entity or cave map). 
 
 Allowed Game Exploits: 
-	Bedrock breaking (and its derivatives, (but no griefing)), Rail and Carpet and TNT duplicating. 
+	Bedrock breaking (and its derivatives, (but no griefing)), TNT duplicating. 
 
 Mob switches (and warden farms) are not allowed.
 Chunk loaders are allowed when required for a farm, and your account needed for a different part of that same farm.
