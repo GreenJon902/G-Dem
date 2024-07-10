@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+from builders.builder import Builder
+
+home_start = """<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -53,9 +55,29 @@
   </head>
   <body>
     <h class="header" style="font-family: button;"><u>G-Dem SMP</u></h>
-    <a href="https://discord.gg/hpsw7YeXkg" style="background-color:#00ad2a;">Join Now!</a>
-    <a href="rules.html" style="background-color:#a30000;">Rules</a>
-    <a href="http://g-dem_smp.apexmc.co:5391" style="background-color:#001b8f;">World Map</a>
-    <a href="hs/" style="background-color:#FC6A03;">HisDoc</a>
-  </body>
-</html>
+    """
+
+home_end = """  </body>
+</html>"""
+
+home_item = "<a href=\"{0}\" style=\"background-color:{1};\">{2}</a>\n"
+
+
+class HomeBuilder(Builder):
+    @staticmethod
+    def build(data: str) -> str:
+        home_html = ""
+        home_html += home_start
+
+        # For each item
+        for line in data.split("\n"):
+            line = line.strip()
+            if line == "":  # If item is empty
+                continue
+
+            # If not add it
+            home_html += home_item.format(*line.split(" ", 2))
+
+        # Add end and return
+        home_html += home_end
+        return home_html

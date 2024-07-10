@@ -1,12 +1,6 @@
-in_ = "src/rulesRaw.txt"
-out = "out/rules.html"
+from builders.builder import Builder
 
-rulesRaw = open(in_, "r").read()
-rulesRaw = rulesRaw.rstrip("\n")
-open(out, "w").write("")
-rulesHtml = open(out, "a")
-
-rulesHtml.write("""
+pre_rules = """
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -98,35 +92,9 @@ rulesHtml.write("""
     <h style="font-family: button;"><u><a href="index.html">G-Dem SMP</a></u> Rules & Infomation</u></h>
 
     <div>
-""")
+"""
 
-ruleNumber = 0
-for rule in rulesRaw.split("\n\n---\n"):
-    ruleNumber += 1
-    rulesHtml.write("<button type=\"button\" class=\"dropdownButton\" id=\"{0}\">{1}. {2}</button><div class=\"dropdownAnimator\"><div class=\"dropdownHolder\">".format(rule.split("\n")[0].lower(), ruleNumber, rule.split("\n")[0]))
-
-    for line in rule.split("\n")[1:]:
-
-        leadingTabs = 0
-        for char in line:
-            if char == "	":
-                leadingTabs += 1
-            else:
-                break
-        line = line.lstrip("    ")
-
-        line = line.replace("[LINK]", "<a class=\"link\" href=\"./rules.html#")
-        line = line.replace("|LINK|", "\">")
-        line = line.replace("[/LINK]", "</a>")
-
-        line = line.replace("[HYPERLINK]", "<a class=\"link\" href=\"")
-        line = line.replace("|HYPERLINK|", "\">")
-        line = line.replace("[/HYPERLINK]", "</a>")
-
-        rulesHtml.write("<span style=\"margin-left:{0}ch\">{1}</span><br>".format(leadingTabs * 4, line.replace("   ", "&emsp;")))
-    rulesHtml.write("</div></div>")
-
-rulesHtml.write("""
+post_rules = """
     </div>
   </body>
 
@@ -169,5 +137,67 @@ rulesHtml.write("""
 
   var hashDetection = new hashHandler();
   </script>
-</html>""")
-rulesHtml.close()
+</html>
+"""
+
+rule_start = ("<button type=\"button\" class=\"dropdownButton\" id=\"{0}\">{1}. {2}</button>\n"
+              "<div class=\"dropdownAnimator\"><div class=\"dropdownHolder\">\n")
+rule_line = "<span style=\"margin-left:{0}ch\">{1}</span><br>\n"
+rule_end = "</div></div>\n"
+
+link_start = "[LINK]"
+link_start_replacement = "<a class=\"link\" href=\"./rules.html#"
+link_middle = "|LINK|"
+link_middle_replacement = "\">"
+link_end = "[/LINK]"
+link_end_replacement = "</a>"
+
+hyperlink_start = "[HYPERLINK]"
+hyperlink_start_replacement = "<a class=\"link\" href=\""
+hyperlink_middle = "|HYPERLINK|"
+hyperlink_middle_replacement = "\">"
+hyperlink_end = "[/HYPERLINK]"
+hyperlink_end_replacement = "</a>"
+
+rule_separator = "\n\n---\n"
+
+
+class RulesBuilder(Builder):
+    @staticmethod
+    def build(data: str) -> str:
+        rules_html = ""
+        rules_html += pre_rules
+
+        # Run for each rule
+        ruleNumber = 0
+        for rule in data.split(rule_separator):
+            ruleNumber += 1
+            rules_html += rule_start.format(rule.split("\n")[0].lower(), ruleNumber, rule.split("\n")[0])
+
+            for line in rule.split("\n")[1:]:  # Loop through each line in the current rule
+
+                # Deal with indentation
+                leadingTabs = 0
+                for char in line:
+                    if char == "\t":
+                        leadingTabs += 1
+                    else:
+                        break
+                line = line.lstrip(" "*4)
+
+                # Deal with links and hyperlinks (links are inside the rules, hyperlinks go outside)
+                line = line.replace(link_start, link_start_replacement)
+                line = line.replace(link_middle, link_middle_replacement)
+                line = line.replace(link_end, link_end_replacement)
+
+                line = line.replace(hyperlink_start, hyperlink_start_replacement)
+                line = line.replace(hyperlink_middle, hyperlink_middle_replacement)
+                line = line.replace(hyperlink_end, hyperlink_end_replacement)
+
+                # Write the actual rule
+                rules_html += rule_line.format(leadingTabs * 4, line.replace("   ", "&emsp;"))
+            rules_html += rule_end
+
+        # Add ending and return
+        rules_html += post_rules
+        return rules_html

@@ -23,7 +23,7 @@ jobs:
       uses: py-actions/py-dependency-install@v4
 
     - name: Run build script # run main.py
-      run: python build.py
+      run: python main.py
         
     - uses: actions/upload-artifact@v3
       with:
