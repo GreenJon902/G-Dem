@@ -1,4 +1,4 @@
-JsonSimpleTemplateBuilder
+JsonTemplateBuilder
 pack/data/g_dem_slabs_to_blocks/recipe/slabs_to_blocks_{name}.json
 ---
 {
@@ -18,5 +18,5 @@ pack/data/g_dem_slabs_to_blocks/recipe/slabs_to_blocks_{name}.json
 }
 ---
 name=brick
----
+-
 name=stone_brick

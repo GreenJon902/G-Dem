@@ -1,0 +1,34 @@
+JsonTemplateBuilder
+pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.json
+---
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC"
+        "012"
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "#stone_crafting_materials"
+        },
+        "0": {
+            "item": "{item_0}"
+        },
+        "1": {
+            "item": "{item_1}"
+        },
+        "2": {
+            "item": "{item_2}"
+        }
+    },
+    "result": {
+        "id": "{output}",
+        "count": 1
+    }
+}
+---
+item_0=quartz
+item_1=quartz
+item_2=redstone
+output=observer

@@ -1,4 +1,4 @@
-JsonSimpleTemplateBuilder
+JsonTemplateBuilder
 pack/data/g_dem_unpackables/recipe/unpackable_{name}.json
 ---
 {
