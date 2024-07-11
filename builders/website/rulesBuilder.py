@@ -1,4 +1,4 @@
-from builders.builder import Builder
+from builders.builder import Builder, SimpleBuilder
 
 pre_rules = """
 <!DOCTYPE html>
@@ -162,9 +162,9 @@ hyperlink_end_replacement = "</a>"
 rule_separator = "\n\n---\n"
 
 
-class RulesBuilder(Builder):
-    @staticmethod
-    def build(data: str) -> str:
+class RulesBuilder(SimpleBuilder):
+    @classmethod
+    def _build(cls, data: str) -> str:
         rules_html = ""
         rules_html += pre_rules
 

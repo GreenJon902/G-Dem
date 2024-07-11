@@ -1,0 +1,45 @@
+CraftingTemplateBuilder
+pack/unpackable_{input}.json
+---
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "{input}"
+        }
+    ],
+    "result": {
+        "id": "{output}",
+        "count": 4
+    }
+}
+---
+input=snow_block
+output=snow_ball
+---
+input=clay
+output=clay_ball
+---
+input=glowstone
+output=glowstone_dust
+---
+input=nether_bricks
+output=nether_brick
+---
+input=amethyst_block
+output=amethyst_shard
+---
+input=quartz_block
+output=quartz
+---
+input=smooth_quartz_block
+output=quartz
+---
+input=blue_ice
+output=packed_ice
+---
+input=packed_ice
+output=ice
+---
+input=honeycomb_block
+output=honeycomb

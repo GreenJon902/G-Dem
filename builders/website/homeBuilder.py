@@ -1,4 +1,4 @@
-from builders.builder import Builder
+from builders.builder import Builder, SimpleBuilder
 
 home_start = """<!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -63,9 +63,9 @@ home_end = """  </body>
 home_item = "<a href=\"{0}\" style=\"background-color:{1};\">{2}</a>\n"
 
 
-class HomeBuilder(Builder):
-    @staticmethod
-    def build(data: str) -> str:
+class HomeBuilder(SimpleBuilder):
+    @classmethod
+    def _build(cls, data: str) -> str:
         home_html = ""
         home_html += home_start
 
