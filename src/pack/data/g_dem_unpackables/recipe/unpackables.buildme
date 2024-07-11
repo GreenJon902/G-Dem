@@ -1,5 +1,5 @@
 CraftingTemplateBuilder
-pack/unpackable_{input}.json
+pack/data/g_dem_unpackables/recipe/unpackable_{input}.json
 ---
 {
     "type": "minecraft:crafting_shapeless",

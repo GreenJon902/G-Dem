@@ -1,0 +1,22 @@
+CraftingTemplateBuilder
+pack/data/g_dem_slabs_to_blocks/recipe/slabs_to_blocks_{name}.json
+---
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "{name}_slab"
+        },
+        {
+            "item": "{name}_slab"
+        }
+    ],
+    "result": {
+        "id": "{name}s",
+        "count": 4
+    }
+}
+---
+name=brick
+---
+name=stone_brick
