@@ -1,5 +1,5 @@
 from builders.builder import Builder
-from builders.pack.craftingTemplateBuilder import CraftingTemplateBuilder
+from builders.pack.jsonSimpleTemplateBuilder import JsonSimpleTemplateBuilder
 from builders.website.homeBuilder import HomeBuilder
 from builders.website.rulesBuilder import RulesBuilder
 
@@ -7,5 +7,5 @@ from builders.website.rulesBuilder import RulesBuilder
 builders: dict[str, type[Builder]] = {
     "RulesBuilder": RulesBuilder,
     "HomeBuilder": HomeBuilder,
-    "CraftingTemplateBuilder": CraftingTemplateBuilder
+    "JsonSimpleTemplateBuilder": JsonSimpleTemplateBuilder
 }

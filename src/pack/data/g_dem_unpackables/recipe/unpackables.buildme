@@ -1,4 +1,4 @@
-CraftingTemplateBuilder
+JsonSimpleTemplateBuilder
 pack/data/g_dem_unpackables/recipe/unpackable_{input}.json
 ---
 {

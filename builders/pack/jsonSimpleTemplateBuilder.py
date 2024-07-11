@@ -13,7 +13,7 @@ def replace_all(strings: Iterable[str], replace_info: dict[str, str]):
         yield string
 
 
-class CraftingTemplateBuilder(Builder):
+class JsonSimpleTemplateBuilder(Builder):
     @classmethod
     def build(cls, path: str, data: str) -> list[BuiltFile]:
         # Separate the input file into the path, template, and parameter sets
