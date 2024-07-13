@@ -5,7 +5,7 @@ pre_rules = """
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>G-Dem SMP Rules & Info</title>
+    <title>G-Dem SMP {0}</title>
     <style>
       html {
         size: 100%, 100%;
@@ -89,7 +89,7 @@ pre_rules = """
     </style>
   </head>
   <body>
-    <h style="font-family: button;"><u><a href="index.html">G-Dem SMP</a></u> Rules & Infomation</u></h>
+    <h style="font-family: button;"><u><a href="index.html">G-Dem SMP</a></u> {0}</u></h>
 
     <div>
 """
@@ -166,38 +166,45 @@ class RulesBuilder(SimpleBuilder):
     @classmethod
     def _build(cls, data: str) -> str:
         rules_html = ""
-        rules_html += pre_rules
+        rules_html += pre_rules.replace("{0}", "Rules & Info")
 
         # Run for each rule
         ruleNumber = 0
         for rule in data.split(rule_separator):
             ruleNumber += 1
             rules_html += rule_start.format(rule.split("\n")[0].lower(), ruleNumber, rule.split("\n")[0])
-
-            for line in rule.split("\n")[1:]:  # Loop through each line in the current rule
-
-                # Deal with indentation
-                leadingTabs = 0
-                for char in line:
-                    if char == "\t":
-                        leadingTabs += 1
-                    else:
-                        break
-                line = line.lstrip(" "*4)
-
-                # Deal with links and hyperlinks (links are inside the rules, hyperlinks go outside)
-                line = line.replace(link_start, link_start_replacement)
-                line = line.replace(link_middle, link_middle_replacement)
-                line = line.replace(link_end, link_end_replacement)
-
-                line = line.replace(hyperlink_start, hyperlink_start_replacement)
-                line = line.replace(hyperlink_middle, hyperlink_middle_replacement)
-                line = line.replace(hyperlink_end, hyperlink_end_replacement)
-
-                # Write the actual rule
-                rules_html += rule_line.format(leadingTabs * 4, line.replace("   ", "&emsp;"))
+            rules_html += cls.write_rule_lines(rule.split("\n")[1:])
             rules_html += rule_end
 
         # Add ending and return
         rules_html += post_rules
         return rules_html
+
+    @classmethod
+    def write_rule_lines(cls, lines):
+        rule_html = ""
+
+        for line in lines:  # Loop through each line in the current rule
+
+            # Deal with indentation
+            leadingTabs = 0
+            for char in line:
+                if char == "\t":
+                    leadingTabs += 1
+                else:
+                    break
+            line = line.lstrip(" "*4)
+
+            # Deal with links and hyperlinks (links are inside the rules, hyperlinks go outside)
+            line = line.replace(link_start, link_start_replacement)
+            line = line.replace(link_middle, link_middle_replacement)
+            line = line.replace(link_end, link_end_replacement)
+
+            line = line.replace(hyperlink_start, hyperlink_start_replacement)
+            line = line.replace(hyperlink_middle, hyperlink_middle_replacement)
+            line = line.replace(hyperlink_end, hyperlink_end_replacement)
+
+            # Write the actual rule
+            rule_html += rule_line.format(leadingTabs * 4, line.replace("   ", "&emsp;"))
+
+        return rule_html

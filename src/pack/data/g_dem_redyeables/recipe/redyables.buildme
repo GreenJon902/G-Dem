@@ -1,4 +1,10 @@
-JsonTemplateBuilder
+PackTemplateWebsiteBuilder
+replace You can now redye any dye-able item.\nYou can either do this one at a time (e.g. 1 dye + 1 wool = 1 dyed wool).\nOr you can do this eight at a time (e.g. 1 dye + 8 wool = 8 dyed wool).
+---
+website/pack.html
+---
+Redyables
+---
 pack/data/g_dem_redyeables/recipe/redyables_{color}_{item}_{count}.json
 ---
 {
@@ -10,7 +16,7 @@ pack/data/g_dem_redyeables/recipe/redyables_{color}_{item}_{count}.json
     ],
     "key": {
         "I": {
-            "item": "{input_prefix}{item}{input_suffix}"
+            "item": "{item}"
         },
         "D": {
             "item": "{color}_dye"

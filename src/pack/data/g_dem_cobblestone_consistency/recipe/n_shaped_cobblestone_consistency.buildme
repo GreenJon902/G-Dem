@@ -1,11 +1,17 @@
-JsonTemplateBuilder
+PackTemplateWebsiteBuilder
+render
+---
+website/pack.html
+---
+Cobblestone consistency 1
+---
 pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.json
 ---
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "CCC"
-        "C0C"
+        "CCC",
+        "C0C",
         "C1C"
     ],
     "key": {

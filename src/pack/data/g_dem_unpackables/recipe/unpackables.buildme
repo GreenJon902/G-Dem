@@ -1,4 +1,10 @@
-JsonTemplateBuilder
+PackTemplateWebsiteBuilder
+render
+---
+website/pack.html
+---
+Unpackables 1
+---
 pack/data/g_dem_unpackables/recipe/unpackable_{input}.json
 ---
 {

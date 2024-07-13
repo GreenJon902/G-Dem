@@ -18,7 +18,8 @@ for walk_result in os.walk(in_path):
     # Process each file that we found
     for file in walk_result[2]:
         in_file = os.path.join(this_in_path, file)
-        out_file = os.path.join(this_out_path, file).removesuffix(".buildme")  # Remove from the output if it is there
+
+        print(f"Processing file \"{in_file}\"")
 
         if in_file.endswith(".buildme"):  # If this needs to be built then read it in and out
 
@@ -27,7 +28,8 @@ for walk_result in os.walk(in_path):
 
             # Read it in, select the builder, get the result from the builder
             builder_name, contents = open(in_file, "r").read().split("\n", 1)
-            built_files = builders.builders[builder_name].build(path_for_builder, contents)
+            builder = builders.builders[builder_name]
+            built_files = builder.build(path_for_builder, contents)
 
             # Write each built file to the correct place
             for built_file in built_files:
@@ -35,4 +37,5 @@ for walk_result in os.walk(in_path):
 
 
         else:  # Otherwise just copy the file
+            out_file = os.path.join(this_out_path, file)
             shutil.copyfile(in_file, out_file)
