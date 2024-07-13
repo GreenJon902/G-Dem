@@ -33,7 +33,12 @@ for walk_result in os.walk(in_path):
 
             # Write each built file to the correct place
             for built_file in built_files:
-                open(os.path.join(out_path, built_file.file_path), "w").write(built_file.file_contents)
+                built_file_out_path = os.path.join(out_path, built_file.file_path)
+                folder_path = os.path.dirname(built_file_out_path)
+                # Make the folder if it doesn't exist
+                if not os.path.exists(folder_path):
+                    os.mkdir(folder_path)
+                open(built_file_out_path, "w").write(built_file.file_contents)
 
 
         else:  # Otherwise just copy the file
