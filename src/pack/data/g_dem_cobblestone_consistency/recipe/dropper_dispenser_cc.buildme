@@ -10,9 +10,9 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "CCC",
+        "111",
         "C0C",
-        "C1C"
+        "CRC"
     ],
     "key": {
         "C": {
@@ -21,8 +21,11 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.
         "0": {
             "item": "{item_0}"
         },
-        "1": {
+        "R": {
             "item": "{item_1}"
+        },
+        "1": {
+            "item": "{item_2}"
         }
     },
     "result": {
@@ -32,9 +35,13 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.
 }
 ---
 item_0=bow
-item_1=redstone
+item_1=#stone_crafting_materials
 output=dispenser
 -
 item_0=air
-item_1=redstone
+item_1=#stone_crafting_materials
 output=dropper
+-
+item_0=iron
+item_1=#planks
+output=piston

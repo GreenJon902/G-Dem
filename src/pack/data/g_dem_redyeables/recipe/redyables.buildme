@@ -16,7 +16,7 @@ pack/data/g_dem_redyeables/recipe/redyables_{color}_{item}_{count}.json
     ],
     "key": {
         "I": {
-            "item": "{item}"
+            "item": "#{item}"
         },
         "D": {
             "item": "{color}_dye"
@@ -65,6 +65,8 @@ item=terracotta
 item=glazed_terracotta
 -
 item=wool
+-
+item=carpet
 -
 item=concrete
 -

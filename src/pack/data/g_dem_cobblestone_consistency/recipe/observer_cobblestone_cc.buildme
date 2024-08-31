@@ -5,13 +5,13 @@ website/pack.html
 ---
 Cobblestone Consistency 2
 ---
-pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.json
+pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_observer.json
 ---
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "CCC",
-        "012",
+        "001",
         "CCC"
     ],
     "key": {
@@ -19,22 +19,16 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.
             "item": "#stone_crafting_materials"
         },
         "0": {
-            "item": "{item_0}"
+            "item": "quartz"
         },
         "1": {
-            "item": "{item_1}"
-        },
-        "2": {
-            "item": "{item_2}"
+            "item": "redstone"
         }
     },
     "result": {
-        "id": "{output}",
+        "id": "observer",
         "count": 1
     }
 }
 ---
-item_0=quartz
-item_1=quartz
-item_2=redstone
-output=observer
+_=

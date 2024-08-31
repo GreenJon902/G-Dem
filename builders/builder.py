@@ -11,6 +11,8 @@ class BuiltFile:
         self.file_contents = file_contents
         super().__init__()
 
+    def __repr__(self):
+        return f"BuiltFile<{self.file_path}>"
 
 
 class Builder:

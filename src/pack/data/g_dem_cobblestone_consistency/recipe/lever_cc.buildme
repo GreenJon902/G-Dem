@@ -1,0 +1,30 @@
+PackTemplateWebsiteBuilder
+render
+---
+website/pack.html
+---
+Cobblestone Consistency 3
+---
+pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_lever}.json
+---
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S",
+        "C"
+    ],
+    "key": {
+        "S": {
+            "item": "stick"
+        },
+        "C": {
+            "item": "#stone_crafting_materials"
+        }
+    },
+    "result": {
+        "id": "{output}",
+        "count": 1
+    }
+}
+---
+_=

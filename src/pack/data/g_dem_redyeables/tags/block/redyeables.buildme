@@ -1,0 +1,41 @@
+JsonTemplateBuilder
+pack/data/g_dem_redyeables/tags/block/{name}.json
+---
+{
+  "values": [
+    "minecraft:white_{name}",
+    "minecraft:orange_{name}",
+    "minecraft:magenta_{name}",
+    "minecraft:light_blue_{name}",
+    "minecraft:yellow_{name}",
+    "minecraft:lime_{name}",
+    "minecraft:pink_{name}",
+    "minecraft:gray_{name}",
+    "minecraft:light_gray_{name}",
+    "minecraft:cyan_{name}",
+    "minecraft:purple_{name}",
+    "minecraft:blue_{name}",
+    "minecraft:brown_{name}",
+    "minecraft:green_{name}",
+    "minecraft:red_{name}",
+    "minecraft:black_{name}"
+  ]
+}
+---
+name=concrete
+-
+name=concrete_powder
+-
+name=stained_glass
+-
+name=stained_glass_pane
+-
+name=candle
+-
+name=wool
+-
+name=carpet
+-
+name=terracotta
+-
+name=glazed_terracotta

@@ -20,7 +20,7 @@ class PackTemplateWebsiteBuilder(JsonTemplateBuilder):
             cls.previous_numbers[html_path] = 1
 
         # Build all the separate json files
-        built_files = super().build(path, data)
+        built_files = list(super().build(path, data))
 
         # Now to build the next part of the site, it is easiest for me to just overwrite the last version every time
         # that we get a new pack template to build. (Yes I apologise for how dum this is)
@@ -110,6 +110,5 @@ class PackTemplateWebsiteBuilder(JsonTemplateBuilder):
         cls.previous_htmls[html_path] += rule_end
 
         # Create the built file, with the ending html added
-        built_files = itertools.chain(built_files, (BuiltFile(html_path, cls.previous_htmls[html_path] + post_rules),))
-
+        built_files = list(itertools.chain(built_files, (BuiltFile(html_path, cls.previous_htmls[html_path] + post_rules),)))
         return built_files
