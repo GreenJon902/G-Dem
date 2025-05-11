@@ -19,7 +19,7 @@ pack/data/g_dem_slabs_to_blocks/recipe/slabs_to_blocks_{name}.json
     ],
     "result": {
         "id": "{name}",
-        "count": 4
+        "count": 1
     }
 }
 ---
@@ -35,7 +35,7 @@ name=granite
 -
 name=polished_granite
 -
-name=dirorite
+name=diorite
 -
 name=polished_diorite
 -
@@ -57,11 +57,11 @@ name=smooth_sandstone
 -
 name=cut_sandstone
 -
-name=red_standstone
+name=red_sandstone
 -
 name=smooth_red_sandstone
 -
-name=cut_red_standstone
+name=cut_red_sandstone
 -
 name=prismarine
 -
@@ -71,10 +71,16 @@ name=blackstone
 -
 name=polished_blackstone
 -
-name=purpur
--
 name=quartz
 -
 name=smooth_quartz
 -
 name=bamboo_mosaic
+-
+name=waxed_cut_copper
+-
+name=exposed_cut_copper
+-
+name=weathered_cut_copper
+-
+name=oxidized_cut_copper

@@ -1,0 +1,45 @@
+PackTemplateWebsiteBuilder
+render
+---
+website/pack.html
+---
+Cobblestone consistency 1
+---
+pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.json
+---
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "111",
+        "C0C",
+        "CRC"
+    ],
+    "key": {
+        "C": {
+            "tag": "stone_crafting_materials"
+        },
+        "0": {
+            "item": "{item_0}"
+        },
+        "R": {
+            "tag": "{tag_1}"
+        },
+        "1": {
+            "tag": "{tag_2}"
+        }
+    },
+    "result": {
+        "id": "{output}",
+        "count": 1
+    }
+}
+---
+item_0=bow
+tag_1=redstone
+tag_2=stone_crafting_materials
+output=dispenser
+-
+item_0=iron_ingot
+tag_1=redstone
+tag_2=planks
+output=piston

@@ -1,5 +1,5 @@
 JsonTemplateBuilder
-pack/data/g_dem_redyeables/tags/block/{name}.json
+pack/data/g_dem_redyeables/tags/item/{name}.json
 ---
 {
   "values": [

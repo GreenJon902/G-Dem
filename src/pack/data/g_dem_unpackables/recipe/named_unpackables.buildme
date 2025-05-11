@@ -11,7 +11,7 @@ pack/data/g_dem_unpackables/recipe/unpackable_{name}.json
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "{input}"
+            "{type}": "{input}"
         }
     ],
     "result": {
@@ -21,5 +21,6 @@ pack/data/g_dem_unpackables/recipe/unpackable_{name}.json
 }
 ---
 name=wool
-input=#wool
+input=wool
+type=tag
 output=string

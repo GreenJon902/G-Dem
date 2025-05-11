@@ -7,6 +7,20 @@ from builders.pack.jsonTemplateBuilder import JsonTemplateBuilder, section_separ
 from builders.website.rulesBuilder import pre_rules, rule_start, rule_end, RulesBuilder, post_rules
 
 
+def get_item_name(value_json):
+    """
+    Get its name regardless whether it's a tag or an item.
+    If there's both a "tag" and "item" then it will crash.
+    """
+    if "item" in value_json:
+        if "tag" in value_json:
+            raise Exception("Found both \"item\" and \"tag\" in crafting recipe!")
+        name = value_json["item"]
+    else:
+        name = value_json["tag"]
+    return name
+
+
 class PackTemplateWebsiteBuilder(JsonTemplateBuilder):
     previous_htmls: dict[str, str] = {}
     previous_numbers: dict[str, int] = {}
@@ -46,7 +60,7 @@ class PackTemplateWebsiteBuilder(JsonTemplateBuilder):
                     # For this we just write the ingredients, their amounts and the output (+amount)
 
                     # Get just names as strings in list
-                    raw_ingredient_names = list(map(lambda x: x["item"], recipe['ingredients']))
+                    raw_ingredient_names = list(map(lambda x: get_item_name(x), recipe['ingredients']))
 
                     ingredient_counts = ({  # Map the ingredient name to the count of it. set(r.i.n) so unique
                         ingredient: raw_ingredient_names.count(ingredient) for ingredient in set(raw_ingredient_names)})
@@ -82,7 +96,9 @@ class PackTemplateWebsiteBuilder(JsonTemplateBuilder):
 
                     # Write key
                     for key_name, value_json in recipe["key"].items():
-                        text += key_name + " = " + value_json["item"].replace("_", " ").title()
+                        name = get_item_name(value_json)
+
+                        text += key_name + " = " + name.replace("_", " ").title()
                         text += ", "
                     text = text.rstrip(", ")
 

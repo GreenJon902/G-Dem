@@ -6,6 +6,9 @@ import builders
 in_path = "src"
 out_path = "out"
 
+# Clear output folder
+shutil.rmtree("out")
+
 for walk_result in os.walk(in_path):
     # Get the output version of the path
     this_in_path = walk_result[0]

@@ -5,7 +5,7 @@ website/pack.html
 ---
 Cobblestone Consistency 3
 ---
-pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_lever}.json
+pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_lever.json
 ---
 {
     "type": "minecraft:crafting_shaped",
@@ -18,11 +18,11 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_lever}.js
             "item": "stick"
         },
         "C": {
-            "item": "#stone_crafting_materials"
+            "tag": "stone_crafting_materials"
         }
     },
     "result": {
-        "id": "{output}",
+        "id": "lever",
         "count": 1
     }
 }

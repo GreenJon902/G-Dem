@@ -5,7 +5,7 @@ website/pack.html
 ---
 Redyables
 ---
-pack/data/g_dem_redyeables/recipe/redyables_{color}_{item}_{count}.json
+pack/data/g_dem_redyeables/recipe/redyables_{color}_{tag}_{count}.json
 ---
 {
     "type": "minecraft:crafting_shaped",
@@ -16,14 +16,14 @@ pack/data/g_dem_redyeables/recipe/redyables_{color}_{item}_{count}.json
     ],
     "key": {
         "I": {
-            "item": "#{item}"
+            "tag": "g_dem_redyeables:{tag}"
         },
         "D": {
             "item": "{color}_dye"
         }
     },
     "result": {
-        "id": "{color}_{item}",
+        "id": "{color}_{tag}",
         "count": {count}
     }
 }
@@ -54,29 +54,29 @@ color=brown
 -
 color=white
 -
-color=light_grey
+color=light_gray
 -
-color=dark_grey
+color=gray
 -
 color=black
 --
-item=terracotta
+tag=terracotta
 -
-item=glazed_terracotta
+tag=glazed_terracotta
 -
-item=wool
+tag=wool
 -
-item=carpet
+tag=carpet
 -
-item=concrete
+tag=concrete
 -
-item=concrete_powder
+tag=concrete_powder
 -
-item=candle
+tag=candle
 -
-item=glass
+tag=stained_glass
 -
-item=glass_pane
+tag=stained_glass_pane
 --
 row_0="III",
 row_1="IDI",

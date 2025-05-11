@@ -3,7 +3,7 @@ render
 ---
 website/pack.html
 ---
-Cobblestone consistency 1
+Cobblestone consistency 4
 ---
 pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.json
 ---
@@ -11,21 +11,18 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "111",
-        "C0C",
+        "C C",
         "CRC"
     ],
     "key": {
         "C": {
-            "item": "#stone_crafting_materials"
-        },
-        "0": {
-            "item": "{item_0}"
+            "tag": "stone_crafting_materials"
         },
         "R": {
-            "item": "{item_1}"
+            "tag": "{tag_0}"
         },
         "1": {
-            "item": "{item_2}"
+            "tag": "{tag_1}"
         }
     },
     "result": {
@@ -34,14 +31,6 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_{output}.
     }
 }
 ---
-item_0=bow
-item_1=#stone_crafting_materials
-output=dispenser
--
-item_0=air
-item_1=#stone_crafting_materials
+tag_0=redstone
+tag_1=stone_crafting_materials
 output=dropper
--
-item_0=iron
-item_1=#planks
-output=piston

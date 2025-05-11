@@ -19,14 +19,8 @@ pack/data/g_dem_slabs_to_blocks/recipe/slabs_to_blocks_{name}.json
     ],
     "result": {
         "id": "{name}_block",
-        "count": 4
+        "count": 1
     }
 }
 ---
-name=unoxidized_cut_copper
--
-name=exposed_cut_copper
--
-name=weathered_cut_copper
--
-name=oxidized_cut_copper
+name=purpur

@@ -21,7 +21,7 @@ pack/data/g_dem_unpackables/recipe/unpackable_{input}.json
 }
 ---
 input=snow_block
-output=snow_ball
+output=snowball
 -
 input=clay
 output=clay_ball
@@ -38,7 +38,7 @@ output=amethyst_shard
 input=quartz_block
 output=quartz
 -
-input=smooth_quartz_block
+input=smooth_quartz
 output=quartz
 -
 input=blue_ice

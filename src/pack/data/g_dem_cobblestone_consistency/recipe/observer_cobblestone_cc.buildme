@@ -16,7 +16,7 @@ pack/data/g_dem_cobblestone_consistency/recipe/cobblestone_consistency_observer.
     ],
     "key": {
         "C": {
-            "item": "#stone_crafting_materials"
+            "tag": "stone_crafting_materials"
         },
         "0": {
             "item": "quartz"
