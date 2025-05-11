@@ -1,6 +1,6 @@
 RulesBuilder
 Stealing
-No stealing unless both parties are [LINK]pa system|LINK|aggressive[/LINK] or the items in question have lore tags (except g-coin), have impossible enchantments, or are dropped heads from someone who’s just died. 
+No stealing unless both parties are [LINK]paa system|LINK|aggressive[/LINK] or the items in question have lore tags (except g-coin), have impossible enchantments, or are dropped heads from someone who’s just died. 
 Items in shops or trades cannot be stolen. 
 Items destroyed, eaten, or consumed by their rightful owner do not require replacement. However, if a player is AFK or at an end farm, any lost items must be replaced.
 Services in spawn zones (like shops or museums) are able to enforce entrance fees or conditions.
@@ -59,16 +59,22 @@ The seed is 8433187205649952434.
 Do not use the seed for X-ray purposes or locating other poeple's bases.
 
 ---
-PA System
-There is a Passive & Aggressive System. 
-By default, all players are Passive, this means they can't [LINK]stealing|LINK|steal[/LINK] (with some exceptions). 
+PAA System
+There is a Passive, Aggressive, Anarchist System. 
 
-In the rules & info discord chat, you can react to the message to become aggressive, this means you can [LINK]stealing|LINK|steal[/LINK] items from other players who are also aggressive!  
-This means you can also mine valuable blocks from other aggressive people’s bases. 
-If a player is un-whitelisted and has not joined in a year, then they count as aggressive, ask an owner for this information. 
+You can use the /pasive, /aggressive and /anarchist commands to switch between these.
+There is a cooldown of one week on moving back to passive from aggressive and anarchist, and moving back to aggressive from anarchist. This can be viewed using /cooldown.
+By default, all players are Passive. 
+
+Passive players may not [LINK]stealing|LINK|steal[/LINK] (with some exceptions).
+Aggressive and anarchist players may steal items dropped from other aggressive or anarchist players in fights.
+Anarchist players may steal from other anarchist player's bases.
+
+Aggresive and anarchist players may not warp from fights.
+
+This means you can also mine valuable blocks from other anarchist people’s bases. 
 
 Note: Passive players can still be killed. 
-Note: You must wait at least a week before switching between passive and aggressive. 
 Note: A [LINK]teams|LINK|Teams[/LINK]'s base's PA Status is the owner of the [LINK]teams|LINK|Teams[/LINK]'s PA Status. 
 
 ---
