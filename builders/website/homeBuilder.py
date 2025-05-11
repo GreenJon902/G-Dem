@@ -23,7 +23,7 @@ home_start = """<!DOCTYPE html>
         font-size: 60px;
         text-align: center;
         margin: 10px;
-        display: block;
+        display: item;
       }
 
       @font-face {
@@ -43,7 +43,7 @@ home_start = """<!DOCTYPE html>
       a {
         color: white;
         text-decoration-color: #fff;
-        display: block;
+        display: item;
         text-align: center;
         font-size: 30px;
         padding:20px;

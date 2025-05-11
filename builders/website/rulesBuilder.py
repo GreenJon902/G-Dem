@@ -71,7 +71,7 @@ pre_rules = """
       }
 
       span {
-        display: inline-block;
+        display: inline-item;
         font-family: span;
       }
 
