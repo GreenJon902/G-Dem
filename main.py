@@ -7,7 +7,8 @@ in_path = "src"
 out_path = "out"
 
 # Clear output folder
-shutil.rmtree("out")
+if os.path.exists(out_path):
+    shutil.rmtree(out_path)
 
 for walk_result in os.walk(in_path):
     # Get the output version of the path
